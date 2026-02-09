@@ -1,0 +1,26 @@
+Vehicle_ID,Vehicle_Type,Direction,Speed_KmH
+5,bus,L1 to L2,81
+13,car,L2 to L1,77
+46,car,L1 to L2,81
+54,car,L1 to L2,77
+76,car,L2 to L1,67
+93,car,L2 to L1,73
+30,car,L1 to L2,50
+1,car,L1 to L2,64
+120,car,L1 to L2,64
+115,car,L1 to L2,52
+128,bus,L2 to L1,70
+102,bus,L1 to L2,70
+198,truck,L2 to L1,85
+204,car,L2 to L1,81
+215,car,L2 to L1,73
+216,truck,L2 to L1,90
+230,car,L2 to L1,77
+308,car,L1 to L2,62
+334,car,L1 to L2,95
+355,car,L1 to L2,81
+412,bus,L2 to L1,85
+
+Summary
+Total L1 to L2,11
+Total L2 to L1,10
